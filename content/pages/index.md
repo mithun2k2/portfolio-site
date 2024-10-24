@@ -19,7 +19,7 @@ sections:
       application and presentation layers. I have worked on applications and
       microservices deployed on IBM Cloud. I have developed multiple web
       applications using HTML, CSS and JavaScript on IBM cloud.  In addition to
-      full-stack development, I specialize in containerization using Docker and
+      full-stack development, I specialize incontainerization using Docker and
       orchestration with Kubernetes, ensuring streamlined microservices
       architecture and deployment pipelines. I have integrated CI/CD solutions
       with Jenkins, driving automation and continuous delivery to optimize
