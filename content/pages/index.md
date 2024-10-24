@@ -23,7 +23,7 @@ sections:
       orchestration with Kubernetes, ensuring streamlined microservices
       architecture and deployment pipelines. I have integrated CI/CD solutions
       with Jenkins, driving automation and continuous delivery to optimize
-      workflows.
+      workflows. 
     styles:
       self:
         height: auto
