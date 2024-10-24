@@ -18,7 +18,12 @@ sections:
       I am a full stack developer with over 2 years of experience in both
       application and presentation layers. I have worked on applications and
       microservices deployed on IBM Cloud. I have developed multiple web
-      applications using HTML, CSS and JavaScript on IBM cloud.  
+      applications using HTML, CSS and JavaScript on IBM cloud.  In addition to
+      full-stack development, I specialize in containerization using Docker and
+      orchestration with Kubernetes, ensuring streamlined microservices
+      architecture and deployment pipelines. I have integrated CI/CD solutions
+      with Jenkins, driving automation and continuous delivery to optimize
+      workflows.
     styles:
       self:
         height: auto
