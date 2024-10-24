@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: ''
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am a full stack developer with over 2 years of experience in both
+      application and presentation layers. I have worked on applications and
+      microservices deployed on IBM Cloud. I have developed multiple web
+      applications using HTML, CSS and JavaScript on IBM cloud.
     styles:
       self:
         height: auto
