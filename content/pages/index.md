@@ -18,7 +18,7 @@ sections:
       I am a full stack developer with over 2 years of experience in both
       application and presentation layers. I have worked on applications and
       microservices deployed on IBM Cloud. I have developed multiple web
-      applications using HTML, CSS and JavaScript on IBM cloud.
+      applications using HTML, CSS and JavaScript on IBM cloud. 
     styles:
       self:
         height: auto
